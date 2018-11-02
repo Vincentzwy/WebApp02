@@ -1,0 +1,15 @@
+{
+	"index.html": {
+		"resources": [
+			"list.html"
+		],
+		"refer": [
+			"list.html"
+		]
+	},
+	"list.html": {
+		"refer": [
+			"detail.html"
+		]
+	}
+}
